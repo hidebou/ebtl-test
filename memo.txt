@@ -1,0 +1,5 @@
+"SSHに変更したい場合
+$ git remote set-url origin git@github. com:ユーザー名/Hello-World.git
+ 
+"HTTPSに変更したい場合
+$ git remote set-url origin https://github.com/ユーザー名/Hello-World.git
